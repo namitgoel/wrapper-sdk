@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HSBCPaymentsSDK",
-            url: "https://92837e2bf93f.ngrok-free.app/wrapper-output/HSBCPaymentsSDK.zip",
+            url: "https://testingnew12.s3.amazonaws.com/HSBCPaymentsSDK.zip",
             checksum: "1f41f2da40fabc81e0598681c260524eebfc9104631d9a0155f3dc8eef225a51"
         ),
         .target(

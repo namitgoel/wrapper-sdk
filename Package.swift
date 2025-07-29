@@ -19,8 +19,7 @@ let package = Package(
         .binaryTarget(
             name: "HSBCPaymentsSDK",
             url: "https://testingnew12.s3.amazonaws.com/HSBCPaymentsSDK.zip",
-            checksum: "f1d138d8ac79a05d726889ccc58d87810bc6666472197d2a197e1cae8d892456",
-            publicHeadersPath: "include"
+            checksum: "f1d138d8ac79a05d726889ccc58d87810bc6666472197d2a197e1cae8d892456"
         ),
         .target(
             name: "HSBCPaymentsSDKDependencies",
